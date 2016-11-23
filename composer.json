@@ -1,11 +1,11 @@
 {
-    "name": "avanzu/admin-theme-bundle",
+    "name": "pandavops/admin-theme-bundle",
     "description": "Admin Theme based on the AdminLTE Template for easy integration into symfony",
     "license": "MIT",
     "authors": [
         {
-            "name": "Marc Bach",
-            "email": "mail@avanzu.de"
+            "name": "Sylvestre Ho",
+            "email": "sylvestre@pandavops.com"
         }
     ],
     "minimum-stability": "dev",
